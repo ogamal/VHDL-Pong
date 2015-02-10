@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/ogamal/nexys3/retro_car/GameStation.ncd
+OUTFILE=/home/ogamal/nexys3/retro_car/GameStation.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=/home/ogamal/nexys3/retro_car
+LICENSE=ISE
+USER_INFO=174157297_174157298_174421591_529
